@@ -1,0 +1,29 @@
+body {
+  background-color: #FF0066;
+
+}
+p{
+  color:#19FFFF;
+  font-family: verdana;
+}
+ul{
+  color:#1975FF
+}
+ol{
+  color:#66FF33;
+  font-family: georgia;
+}
+#title{
+  text-align: center;
+    color:#99FFCC;
+}
+#first_image {
+  width: 600px;
+}
+#begining {
+  color: #CC99FF;
+    text-align: center;
+}
+#second_image {
+  width:50%;
+}
